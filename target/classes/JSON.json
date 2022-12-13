@@ -1,0 +1,27 @@
+[
+  {
+    "name": "³×ÀÌ¹ö",
+    "number_of_employees": 4103,
+    "service": "Ëþßã"
+  },
+  {
+    "name": "Ä«Ä«¿À",
+    "number_of_employees": 10644,
+    "service": "Ùþí®"
+  },
+  {
+    "name": "¶óÀÎ",
+    "number_of_employees": 2268,
+    "service": "Ùþí®"
+  },
+  {
+    "name": "ÄíÆÎ",
+    "number_of_employees": 37000,
+    "service": "ëæãÝ"
+  },
+  {
+    "name": "¿ì¾ÆÇÑÇüÁ¦µé",
+    "number_of_employees": 900,
+    "service": "ëæãÝ"
+  }
+]
